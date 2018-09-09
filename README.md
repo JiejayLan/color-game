@@ -1,10 +1,10 @@
 #  *ColorGame*
 
-**SmarTips** is a RGB game created by css and js.
+**color-game** is a color guessing game created by css and js.
 
 Submitted by: **Jie Lan**
 
-Time spent: **5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 * User can choose easy or hard model.
