@@ -7,7 +7,7 @@ Submitted by: **Jie Lan**
 Time spent: **2** hours spent in total
 
 ## User Stories
-* User can choose easy or hard model.
+* User can choose easy or hard mode.
 * User can guess the RGB color by click the square.
 * If user choose a wrong color, he can click again.
 * If user choose a correct color, the background will change.
