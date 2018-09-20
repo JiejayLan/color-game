@@ -1,6 +1,6 @@
 #  *ColorGame*
 
-**color-game** is a color guessing game created by css and js.
+**color-game** is a RGB color guessing game created by css, javascript, jquery and bootstrap.
 
 Submitted by: **Jie Lan**
 
